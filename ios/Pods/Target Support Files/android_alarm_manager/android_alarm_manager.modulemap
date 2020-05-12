@@ -1,0 +1,6 @@
+framework module android_alarm_manager {
+  umbrella header "android_alarm_manager-umbrella.h"
+
+  export *
+  module * { export * }
+}
